@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Zapp</string>
+    <string name="txtRegisterIfNotYet">Ainda não tem uma conta? Registre-se aqui.</string>
+
+    <string name="btnLogin">LOGAR</string>
+    <string name="btnRegister">REGISTER</string>
+
+    <string name="menuItemSearch">Pesquisar</string>
+    <string name="menuItemAddContact">Adicionar Contato</string>
+    <string name="menuItemSettings">Configurações</string>
+    <string name="menuItemLogout">Sair</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

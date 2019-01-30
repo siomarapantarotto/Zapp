@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!-- ANTES: <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar"> -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- <item name="colorAccent">@color/colorAccent</item> -->
+        <item name="android:windowBackground">@android:color/white</item>
+        <!-- <item name="android:itemBackground">@android:color/white</item> -->
+        <!-- <item name="android:textColor">@android:color/black</item> -->
+        <!-- Customize by siomara.com.br em 180316      -->
+        <!-- Comentado na criação da toolbar da main em 180410   -->
+        <!-- <item name="windowNoTitle">true</item>     -->
+        <!-- <item name="windowActionBar">false</item>  -->
+    </style>
+
+
+    <!-- Style for all buttons -->
+    <style name="ButtonStyle" parent="Theme.AppCompat.Light">
+        <item name="android:colorButtonNormal">@color/colorPrimaryDark</item>
+        <item name="android:colorControlHighlight">@color/colorPrimary</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>

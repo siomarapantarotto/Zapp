@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "843351371624",
+    "firebase_url": "https://zapp-eaffb.firebaseio.com",
+    "project_id": "zapp-eaffb",
+    "storage_bucket": "zapp-eaffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843351371624:android:91833f3e64963d38",
+        "android_client_info": {
+          "package_name": "br.com.siomara.zapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843351371624-4qcq4m7ps2sr76b3sc4qta60tiktnoeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.siomara.zapp",
+            "certificate_hash": "1cec0fa007225e8c4117b6922de19b953a7afd3d"
+          }
+        },
+        {
+          "client_id": "843351371624-tc3sjhgo69ch6ohsttss1m481nhc7b53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmxwGZph7aFMCJzK9yu7yFGyHEq8lXIjs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843351371624-tc3sjhgo69ch6ohsttss1m481nhc7b53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
