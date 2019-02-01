@@ -13,8 +13,9 @@
 
 More detailed documentation can be found directly on the code.
 
+```
 Status: The app is <b style='color:red'>UNDER CONSTRUCTION </b> and may contains some errors!
-
+```
 
 ## Technologies
 The project is created with:
