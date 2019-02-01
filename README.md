@@ -1,4 +1,5 @@
 # Zapp
+<h3> Attention: This app is UNDER CONSTRUCTION and may contain some errors.</h3>
 
 
 ## Table of contents
@@ -12,8 +13,6 @@
 "Zapp" is an ANDROID APP SAMPLE that clones some of Whatsapp functionalities and integrates with FIREBASE.
 
 More detailed documentation can be found directly on the code.
-
-<h3> Attention: This app is UNDER CONSTRUCTION and may contain some errors.</h3>
 
 
 ## Technologies
