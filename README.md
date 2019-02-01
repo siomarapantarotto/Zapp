@@ -5,7 +5,6 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [App screenshots](#app-screenshots)
 * [Thanks and how to contribute](#thanks-and-how-to-contribute)
 
 
@@ -25,10 +24,6 @@ The project is created with:
 
 ## Setup
 To run this project, just download the project directory to your "AndroidStudioProjects" folder and run it.
-
-
-## App screenshots
-<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/Zapp/zapp_firebase_add_contact.png" width="100" height="50"></kbd>
 
 
 ## Thanks and how to contribute
