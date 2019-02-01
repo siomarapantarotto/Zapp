@@ -14,7 +14,7 @@
 More detailed documentation can be found directly on the code.
 
 
-Status: The app is <h1>UNDER CONSTRUCTION </h1> and may contains some errors!
+<h3> UNDER CONSTRUCTION </h3>
 
 
 ## Technologies
