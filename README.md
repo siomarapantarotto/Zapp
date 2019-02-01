@@ -28,7 +28,7 @@ To run this project, just download the project directory to your "AndroidStudioP
 
 
 ## App screenshots
-<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/Zapp/zapp_firebase_add_contact.png" width="260" height="133"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/Zapp/zapp_firebase_add_contact.png" width="100" height="50"></kbd>
 
 
 ## Thanks and how to contribute
