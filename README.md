@@ -13,8 +13,7 @@
 
 More detailed documentation can be found directly on the code.
 
-
-<h3> UNDER CONSTRUCTION </h3>
+<h3> Attention: This app is UNDER CONSTRUCTION and may contain some errors.</h3>
 
 
 ## Technologies
